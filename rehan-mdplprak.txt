@@ -1,1 +1,3 @@
+prototyping perangkat lunak adalah salah satu metode siklus hidup sistem yang didasasarkan pada konsep model bekerja (working model)
+Tujuannya adalah mengembangkan model menjadi sistem final.
 
